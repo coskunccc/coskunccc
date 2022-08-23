@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coskunccc
 - 👀 I’m interested in Java SDET
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA, SELENIUM, AUTOMATION
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
